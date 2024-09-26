@@ -46,6 +46,8 @@ Before using this repository, ensure you have the following installed:
     - **PRIVATE_KEY**: The base58 encoded private key of your wallet.
     - **PUBLIC_KEY**: Your wallet's public key (for checking the balance and airdropping SOL).
     - **TO_PUBLIC_KEY**: The recipient's public key for minting new tokens.
+  
+      <br />
 
     > You can obtain these keys using the Solana CLI by running commands like 
     ```bash
